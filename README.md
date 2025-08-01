@@ -1,0 +1,2 @@
+# Amazon Clone
+This project is a static front-end clone of the Amazon homepage developed using HTML and CSS. It aims to replicate the core design, layout, and interface elements of Amazon to provide hands-on practice with modern web development techniques. The interface includes a responsive navigation bar, location selector, search bar with category dropdown, promotional hero banner, multiple categorized product sections, and a comprehensive footer with structured links.
